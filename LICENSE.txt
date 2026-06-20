@@ -1,0 +1,23 @@
+TIGGR — Tamper-Evident AI Audit & Governance
+Copyright (c) 2026 Porritt Inc. (Layton, UT). All rights reserved. Patent pending.
+
+PROPRIETARY — EVALUATION LICENSE
+
+This repository contains documentation, illustrative sample outputs, and references to a
+hosted demonstration of the TIGGR system. It is provided solely for evaluation and review
+(including competition judging and partner due diligence).
+
+You MAY: view, run the publicly hosted demo, and reference this material for evaluation.
+
+You MAY NOT, without prior written permission from Porritt Inc.: redistribute, sublicense,
+sell, or create derivative works from this material; reverse engineer the TIGGR capture
+engine or chain-construction protocol; or use the TIGGR name or marks commercially.
+
+The TIGGR capture engine and chain-construction protocol are proprietary trade secrets and
+the subject of a pending patent application; they are not licensed or disclosed by this
+repository.
+
+THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. Porritt Inc. is not liable
+for any claim or damages arising from its use.
+
+For licensing inquiries: timothy@porrittinc.com
